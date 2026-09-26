@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32685825/README.md)
+
 # TravelsGo
 
 Landing page de uma agência de viagens fictícia, criada com HTML, CSS e JavaScript. A página apresenta destinos, hospedagens, formas de contato e um resumo de como funciona o planejamento de uma viagem.
